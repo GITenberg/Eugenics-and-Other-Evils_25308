@@ -1,0 +1,37 @@
+_repo: Eugenics-and-Other-Evils_25308
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Mr. Chesterton's long essay on eugenics and other evils was written in
+  1922, just a few years after the close of the 'Great War.' This war was not yet
+  known as World War I, and it could not then be imagined that a greater calamity
+  could be possible. Chesterton ends with the acidic observation that if his readers
+  don't believe how toxic materialistic philosophies are, ""neither would they believe
+  though one rose from the dead."" Prophetic; Chesterton would die in 1936, a few
+  short years before the horrors of World War II, carried out once again by the hands
+  of those who rejected Chr.
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+title: Eugenics and Other Evils
+url: http://www.gutenberg.org/ebooks/25308
